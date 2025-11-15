@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+groq==0.6.0
+python-multipart==0.0.6
+pydantic==1.10.11
+sqlalchemy==1.4.52
+databases==0.6.0
+pytest==7.3.2
+colorama==0.4.6
